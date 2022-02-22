@@ -1,4 +1,4 @@
-#+TITLE:  线性代数 (2022-春)
+#+TITLE:  概率论与数理统计 (2022-春)
 
 仓库结构:
 - [[https://github.com/zhongyl0430/2022-Spring_Probability/tree/main/courseware][courseware]]: 上课使用课件
