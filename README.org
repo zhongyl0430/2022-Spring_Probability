@@ -1,0 +1,23 @@
+#+TITLE:  线性代数 (2022-春)
+
+仓库结构:
+- [[https://github.com/zhongyl0430/2022-Spring_Probability/tree/main/courseware][courseware]]: 上课使用课件
+
+说明:
+- 欢迎在 [[https://github.com/zhongyl0430/2022-Spring_Probability/issues][Issues]] 提出建议或者意见. 更加欢迎大家在 Issues 中讨论问题.
+
+课程信息:
+- 联系方式: zhongyl@scut.edu.cn
+  - 杨助教 (交运): yang_hong_hao@126.com
+  - 李助教 (土木): 1184627473@qq.com
+- 教材: 《概率论与数理统计》 何春雄, 龙卫江, 朱锋峰 编
+- 时间: 2021-2022 第二学期 1-12周
+- 班级:
+  - 交运: 21级 交通运输 1班, 2班, 3班 (周一 1-2; 周二 1-2)
+  - 土木: 21级 力学创新班 土木 1班, 2班 (周一 3-4; 周二 3-4)
+
+每周作业:
+- W1: Ch1: 2-6, 8-12;
+
+参考资料:
+- [[https://book.douban.com/subject/2201479/][陈希孺 - 概率论与数理统计]]
